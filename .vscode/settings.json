@@ -4,6 +4,13 @@
   "prettier.arrowParens": "avoid",
   "prettier.jsxSingleQuote": true,
   "prettier.trailingComma": "none",
+  "javascript.preferences.quoteStyle": "single",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
   "jumpToAliasFile.alias": {
     "app": "client/app"
   }
